@@ -148,10 +148,10 @@ The analysis combines SQL-based exploration with Power BI dashboards to deliver 
 
 ## 🖥️ Dashboard Overview
 ### Transaction Performance
-![image alt](https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png)
+![image alt]([https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png](https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/05.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(1)%20Dashboard.png))
 
 ### Demographic Analysis
-![image alt](https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png)
+![image alt]([https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png](https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/06.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(2)%20Dashboard.png))
 
 ---
 
