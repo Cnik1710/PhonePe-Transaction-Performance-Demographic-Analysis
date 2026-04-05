@@ -148,10 +148,10 @@ The analysis combines SQL-based exploration with Power BI dashboards to deliver 
 
 ## 🖥️ Dashboard Overview
 ### Transaction Performance
-![image alt]((https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/05.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(1)%20Dashboard.png))
+![image alt](https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/05.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(1)%20Dashboard.png)
 
 ### Demographic Analysis
-![image alt]((https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/06.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(2)%20Dashboard.png))
+![image alt](https://github.com/Cnik1710/PhonePe-Transaction-Performance-Demographic-Analysis/blob/bbfb8350ba0aafcc2c23d78ffecfea91d9224aa0/06.%20PhonePe%20-%20Transaction%20Performance%20%26%20Demographic%20Analysis%20(2)%20Dashboard.png)
 
 ---
 
